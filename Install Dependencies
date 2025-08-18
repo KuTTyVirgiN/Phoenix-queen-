@@ -1,0 +1,1 @@
+pip install python-telegram-bot[webhooks]==20.3 requests googletrans==4.0.0-rc1
